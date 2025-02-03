@@ -4,6 +4,6 @@ This project is designed to provide insights into workforce performance and bonu
 In this repository, you will find the project files used, excel and Power BI DAX codes as well as a ReadMe file which contains instructions on how to recreate the project
 I hope you will find this project meets your expectations on workforce performance insights and how it affects bonus distribution. Thank you for your interest and i look forward to your feedback.
 
-Data: https://github.com/phveektor/Work-Performance-and-Bonus-Distribution-Analysis-in-Power-BI/blob/main/files%2FWorker%27s%20bonus.xlsx
+Project files: https://github.com/phveektor/Work-Performance-and-Bonus-Distribution-Analysis-in-Power-BI/tree/main/files
 
-Steps: Save the file on your local device and follow the instructions
+Steps: Save the files on your local device and follow the instructions
